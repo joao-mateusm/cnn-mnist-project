@@ -1,0 +1,17 @@
+# Ignorar pastas de dados e modelos
+/data/
+/models/
+
+# Ignorar a pasta de ambiente virtual do Python
+venv/
+__pycache__/
+
+# Ignorar arquivos específicos do sistema
+.DS_Store
+
+# Ignorar pasta do ambiente virtual
+venv/
+
+# Ignorar notebooks com saídas salvas
+
+*.ipynb_checkpoints
